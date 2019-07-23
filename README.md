@@ -6,5 +6,7 @@ We would like to establish to which extent publications (journal articles) have 
 Plan S compliant venues:
 1. Journal is
 ..1. Full OA journal
+
 ..2. Journal part of transformative deal
+
 ..3. Green Journal with 0-months embargo
