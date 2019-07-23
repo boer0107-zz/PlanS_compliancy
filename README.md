@@ -23,3 +23,13 @@ We would like to establish to which extent publications (journal articles) have 
 6. CC-BY-SA 4.0 OR
 
 7. CC-BY-ND (on request)
+
+### Plan S compliant articles must meet te following conditions
+
+8. Have been published in a Plan S compliant venue, as established above
+
+9. Are Open Access available
+
+10. Have  a CC-BY, CCO, CC-BY-SA 4.0 OR CC-BY-ND license.
+
+We do not/cannot establish if an article was open access available immediately in a repository.
