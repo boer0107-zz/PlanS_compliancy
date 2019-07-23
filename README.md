@@ -1,11 +1,12 @@
 # PlanS_compliancy
 establishing Plan S compliancy for articles based on DOI
 
-##Introduction
+## Introduction
 We would like to establish to which extent publications (journal articles) have been published in Plan S compliant venues and to which extent these articles are in fact Plan S compliant. 
 
-###Plan S compliant venues must meet te following conditions
-**Journal is **
+### Plan S compliant venues must meet te following conditions
+
+**Journal is**
 
 1. Full OA journal (DOAJ registered) OR
 
